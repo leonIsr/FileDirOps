@@ -1,0 +1,7 @@
+{
+    "path" : "root\\subroot\\file.json",
+    "content" : 
+        { "content" : "Hello. I'm JSON file content",
+          "content2" : "Hello. I'm another JSON file content"
+        }
+}
